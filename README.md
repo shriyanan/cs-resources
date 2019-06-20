@@ -38,5 +38,5 @@ http://www.kartikkapur.com/61B.html#summaries
 ### Reference Sheets
 
 ### Link to my cheat sheet
-
+https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing
 
