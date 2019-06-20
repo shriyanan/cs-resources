@@ -18,6 +18,9 @@ https://hkn.eecs.berkeley.edu/exams/course/cs/61a
 
 ### Midterm 2 Specific
 
+### Final Specifc
+
+- https://docs.google.com/document/d/1olBIjZ0G6MrtR5oLKWKAvVt3pG4xuCjipzLz7AV689w/edit#heading=h.ywlpmc3co4tk
 
 ## CS 61B
 
