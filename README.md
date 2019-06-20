@@ -2,7 +2,6 @@
 
 These are resources I found helpful while taking these classes!
 
-
 ## CS 61A
 
 ### Sample Exams
@@ -18,11 +17,21 @@ https://hkn.eecs.berkeley.edu/exams/course/cs/61a
 
 ### Midterm 2 Specific
 
+
 ### Final Specifc
 
 - https://docs.google.com/document/d/1olBIjZ0G6MrtR5oLKWKAvVt3pG4xuCjipzLz7AV689w/edit#heading=h.ywlpmc3co4tk
 
 ## CS 61B
+
+http://www.kartikkapur.com/61B.html#summaries
+
+### Miderm 1 Specific
+
+
+### Midterm 2 Specific
+
+- http://www.kartikkapur.com/documents/whentouse.pdf
 
 ### Sample Exams
 
