@@ -24,6 +24,9 @@ https://hkn.eecs.berkeley.edu/exams/course/cs/61a
 
 ## CS 61B
 
+I'd recommend joining a CSM section and attending discussion. It's really good to have routine review through this. 
+
+Kartik's material is all pretty helpful. I'd recommend checking out his textbook for any specific concepts you'd like to review. 
 http://www.kartikkapur.com/61B.html#summaries
 
 ### Miderm 1 Specific
@@ -32,11 +35,14 @@ http://www.kartikkapur.com/61B.html#summaries
 ### Midterm 2 Specific
 
 - http://www.kartikkapur.com/documents/whentouse.pdf
+- 
 
 ### Sample Exams
 
+When it comes to exams, it's not about how many you can take, it's making the most of each one. That means really sitting down for the allotted time, and doing the exam in an environment similar to the actual exam. Also, taking the time to review each of your mistakes.
+
+- http://www.kartikkapur.com/61B.html#exams
+
 ### Reference Sheets
 
-### Link to my cheat sheet
-- https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing
-
+- I made this when I was in the class. Don't judge, it's not amazing!  https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing
