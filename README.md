@@ -46,3 +46,6 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 ### Reference Sheets
 
 - I made this when I was in the class. Don't judge, it's not amazing!  https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing
+
+# Recruiting
+- http://callacarter.com/csinternships/
