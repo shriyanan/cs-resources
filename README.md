@@ -49,3 +49,4 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 
 # Recruiting
 - http://callacarter.com/csinternships/
+- https://github.com/vicky002/TheUltimateInternshipGuide
