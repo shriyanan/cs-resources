@@ -52,3 +52,6 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 - https://github.com/vicky002/TheUltimateInternshipGuide
 - Review CS 61B Lectures
 - Read Cracking the Coding Interview
+- Attend career fairs/open house events (ask your friends at companies they are working at to invite you to their intern open house)
+- Ask your friends/people you know at companies for referrals
+- Remember, getting an internship isn't everything, but is a good way to see how you like industry and develop CS experience
