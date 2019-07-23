@@ -1,6 +1,6 @@
 # Resources for CS Classes
 
-These are resources I found helpful while taking these classes! Bottom line, work hard, stay positive, and find good friends who you can collaborate study together through these classes. I'm also always here to talk or give advice (although I am no expert). If there's anything I can do to help, reach out to shriyanan@berkeley.edu and I'll get back to you. :) Best of luck. 
+These are resources I found helpful while taking these classes at Berkeley! Bottom line, work hard, stay positive, and find good friends who you can collaborate study together through these classes. I'm also always here to talk or give advice (although I am no expert). If there's anything I can do to help, reach out to shriyanan@berkeley.edu and I'll get back to you. :) Best of luck. 
 
 ## CS 61A
 
@@ -50,3 +50,5 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 # Recruiting
 - http://callacarter.com/csinternships/
 - https://github.com/vicky002/TheUltimateInternshipGuide
+- Review CS 61B Lectures
+- Read Cracking the Coding Interview
