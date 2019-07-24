@@ -52,6 +52,8 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 - https://github.com/vicky002/TheUltimateInternshipGuide
 - Review CS 61B Lectures
 - Read Cracking the Coding Interview
+- If you're a girl, try to attend the Grace Hopper Conference. There are scholarships that you can also apply to!
 - Attend career fairs/open house events (ask your friends at companies they are working at to invite you to their intern open house)
+- Connect with people on Likedin that you meet at events--it is important to broaden your network, and this may help
 - Ask your friends/people you know at companies for referrals
 - Remember, getting an internship isn't everything, but is a good way to see how you like industry and develop CS experience
