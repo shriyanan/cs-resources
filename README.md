@@ -24,6 +24,8 @@ https://hkn.eecs.berkeley.edu/exams/course/cs/61a
 
 ## CS 61B
 
+All in all, this course is quite project heavy. If you put your head down, attend office hours if you need, and solve the projects, I think you will have a good time. Personally, this class was a lot more based off of hard work (compared to 61A's puzzles that we had to solve on the spot).
+
 I'd recommend joining a CSM section and attending discussion. It's really good to have routine review through this. 
 
 Kartik's material is all pretty helpful. I'd recommend checking out his textbook for any specific concepts you'd like to review. 
