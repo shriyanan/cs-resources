@@ -52,6 +52,7 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 # Recruiting
 - http://callacarter.com/csinternships/
 - https://github.com/vicky002/TheUltimateInternshipGuide
+- https://github.com/elaine-zheng/summer2020internships
 - Review CS 61B Lectures
 - Read Cracking the Coding Interview
 - If you're a girl, try to attend the Grace Hopper Conference. There are scholarships that you can also apply to!
