@@ -13,3 +13,4 @@ These are resources I found helpful while taking these classes at Berkeley! Bott
 
 ## [Recruiting](recruiting.md)
 
+I also included some resources to help with internship recruiting. I know at Cal there's a lot of hype about securing an internship and all, but remember not to define yourself/judge others on their career plans. It's not the end of the world if you can't find an internship, or don't get a job at a big tech company. In fact, the people who've had the most memorable summers spend them not at internships, doing work for super cool smaller startups, or traveling abroad.
