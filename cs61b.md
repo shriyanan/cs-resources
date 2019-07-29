@@ -5,15 +5,14 @@ All in all, this course is quite project heavy. If you put your head down, atten
 
 I'd recommend joining a CSM section and attending discussion. It's really good to have routine review through this. 
 
-Kartik's material is all pretty helpful. I'd recommend checking out his textbook for any specific concepts you'd like to review. 
-http://www.kartikkapur.com/61B.html#summaries
+[Kartik's material](http://www.kartikkapur.com/61B.html#summaries) is all pretty helpful. I'd recommend checking out his textbook for any specific concepts you'd like to review. 
 
 ### Miderm 1 Specific
 
 
 ### Midterm 2 Specific
 
-- http://www.kartikkapur.com/documents/whentouse.pdf
+- [Cheat sheet of when to use which data structure](http://www.kartikkapur.com/documents/whentouse.pdf)
 - 
 
 ### Sample Exams
@@ -24,4 +23,4 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 
 ### Reference Sheets
 
-- I made this when I was in the class. Don't judge, it's not amazing!  https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing
+- I made [this](https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing) when I was in the class. Don't judge, it's not amazing! 
