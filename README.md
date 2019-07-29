@@ -4,65 +4,12 @@ These are resources I found helpful while taking these classes at Berkeley! Bott
 
 ## [CS 61A](cs61a.md)
 
-### Sample Exams
 
-It's a must to take practice tests before each exam. 
+## [CS 61B](cs61b.md)
 
-[Tau Beta Pi Library of Exams](https://tbp.berkeley.edu/courses/cs/61a/)
-[HKN Library of Exams](https://hkn.eecs.berkeley.edu/exams/course/cs/61a)
-
-*You can also find exams other students/orgs have made over the years, but prioritize the released exams*
-
-### Midterm 1 Specific
-
-- This tip sheet: http://alvinwan.com/cs61a/Midterm1TipSheet.pdf
-
-### Midterm 2 Specific
-
-
-### Final Specifc
-
-- https://docs.google.com/document/d/1olBIjZ0G6MrtR5oLKWKAvVt3pG4xuCjipzLz7AV689w/edit#heading=h.ywlpmc3co4tk
-
-## CS 61B
-
-All in all, this course is quite project heavy. If you put your head down, attend office hours if you need, and solve the projects, I think you will have a good time. Personally, this class was a lot more based off of hard work (compared to 61A's puzzles that we had to solve on the spot).
-
-I'd recommend joining a CSM section and attending discussion. It's really good to have routine review through this. 
-
-Kartik's material is all pretty helpful. I'd recommend checking out his textbook for any specific concepts you'd like to review. 
-http://www.kartikkapur.com/61B.html#summaries
-
-### Miderm 1 Specific
-
-
-### Midterm 2 Specific
-
-- http://www.kartikkapur.com/documents/whentouse.pdf
-- 
-
-### Sample Exams
-
-When it comes to exams, it's not about how many you can take, it's making the most of each one. That means really sitting down for the allotted time, and doing the exam in an environment similar to the actual exam. Also, taking the time to review each of your mistakes.
-
-- http://www.kartikkapur.com/61B.html#exams
-
-### Reference Sheets
-
-- I made this when I was in the class. Don't judge, it's not amazing!  https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing
 
 ## CS 70
 
-*taking this class now, but adding resources I find helpful as it goes*
 
-# Recruiting
-- http://callacarter.com/csinternships/
-- https://github.com/vicky002/TheUltimateInternshipGuide
-- https://github.com/elaine-zheng/summer2020internships
-- Review CS 61B Lectures
-- Read Cracking the Coding Interview
-- If you're a girl, try to attend the Grace Hopper Conference. There are scholarships that you can also apply to!
-- Attend career fairs/open house events (ask your friends at companies they are working at to invite you to their intern open house)
-- Connect with people on Likedin that you meet at events--it is important to broaden your network, and this may help
-- Ask your friends/people you know at companies for referrals
-- Remember, getting an internship isn't everything, but is a good way to see how you like industry and develop CS experience
+# [Recruiting](recruiting.md)
+
