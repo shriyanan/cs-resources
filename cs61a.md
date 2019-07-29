@@ -2,9 +2,10 @@
 
 ### Sample Exams
 
-It's a must to take practice tests before each exam. 
+I recommend taking practice tests before each exam to gain confidence, and get a sample of what the tests are going to look like.
 
 [Tau Beta Pi Library of Exams](https://tbp.berkeley.edu/courses/cs/61a/)
+
 [HKN Library of Exams](https://hkn.eecs.berkeley.edu/exams/course/cs/61a)
 
 *You can also find exams other students/orgs have made over the years, but prioritize the released exams*
