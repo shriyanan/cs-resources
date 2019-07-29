@@ -49,6 +49,10 @@ When it comes to exams, it's not about how many you can take, it's making the mo
 
 - I made this when I was in the class. Don't judge, it's not amazing!  https://drive.google.com/file/d/19y7oHjSfcrmLWSFkHh1n2I785sDLCWTd/view?usp=sharing
 
+## CS 70
+
+*taking this class now, but adding resources I find helpful as it goes*
+
 # Recruiting
 - http://callacarter.com/csinternships/
 - https://github.com/vicky002/TheUltimateInternshipGuide
